@@ -15,7 +15,7 @@ the input device. For simplicty, we also consider the recording device to have
 an extra output connection than can be used to connect speakers or headphones.
 Inexpensive USB external sound cards provide these capabilities.
 
-![Schematic of the connections](imgs/connections.pdf)
+![Schematic of the connections](imgs/connections.png)
 
 ## The input device
 
@@ -32,6 +32,6 @@ limit the voltage that arrives at the sound card.
 
 Below we provide schematics describing how to assembly the input device.
 
-![Schematic of component assembly for FSR input device](imgs/fsr2_bb_mod.pdf)
+![Schematic of component assembly for FSR input device](imgs/fsr2_bb_mod.png)
 
-![Schematic of electronic connections for FSR input device](imgs/fsr2_schem_mod.pdf)
+![Schematic of electronic connections for FSR input device](imgs/fsr2_schem_mod.png)
