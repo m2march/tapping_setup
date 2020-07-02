@@ -15,4 +15,23 @@ the input device. For simplicty, we also consider the recording device to have
 an extra output connection than can be used to connect speakers or headphones.
 Inexpensive USB external sound cards provide these capabilities.
 
-![imgs/connections.pdf](Schematic of the connections)
+![Schematic of the connections](imgs/connections.pdf)
+
+## The input device
+
+We propose using a Force Sensitive Resistor (FSR) as an input device. The FSR
+is a sensor shaped as a flat surface that works as a resistor whose resistance
+drops when it receives pressure. The signal produced by this sensor is clear,
+as it is close to 0 when at rest and raises rapidly as is receives pressure.
+
+In other for the FSR to work, it must be connected to a voltage source. We
+propose using the 5V pin of a USB (type-a) connector. We then connect it to
+a 3.5mm audio jack. This allows connecting the input device to the sound card
+with standard audio cables. It must be used in a voltage divisor circuit to
+limit the voltage that arrives at the sound card. 
+
+Below we provide schematics describing how to assembly the input device.
+
+![Schematic of component assembly for FSR input device](imgs/fsr2_bb_mod.pdf)
+
+![Schematic of electronic connections for FSR input device](imgs/fsr2_schem_mod.pdf)
