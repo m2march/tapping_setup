@@ -31,7 +31,7 @@ with standard audio cables. It must be used in a voltage divisor circuit to
 limit the voltage that arrives at the sound card. 
 
 Below we provide schematics describing how to assembly the input device.
-A [detailed video tutorial](https://youtu.be/izlDvdF4nxw) where the input device is
+We also provide a [detailed video tutorial](https://youtu.be/izlDvdF4nxw) where the input device is
 assembled and tested from scratch.
 
 ![Schematic of component assembly for FSR input device](imgs/fsr-pos-tunnable_bb.png)
