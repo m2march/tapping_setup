@@ -1,8 +1,7 @@
 # Simple and Cheap Setup for Measuring Timed Responses to Auditory Stimuli
 
 This repository holds further instructions to assembly and use the proposed
-setup in _"Simple and Cheap Setup for Measuring Timed Responses 
-to Auditory Stimuli"_ (Miguel et al., under review). 
+setup in _"A simple and cheap setup for timing tapping responses synchronized to auditory stimuli."_ (Miguel, M.A., Riera, P. & Slezak, D.F.  Behav Res (2021). https://doi.org/10.3758/s13428-021-01653-y). 
 
 ## The setup
 
